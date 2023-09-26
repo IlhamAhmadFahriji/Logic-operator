@@ -1,2 +1,0 @@
-# Logic-operator
-discrete mathemathics 
